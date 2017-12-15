@@ -1,0 +1,11 @@
+* {
+	background: #E7FFBF;
+}
+
+.navigate {
+	height: 40px;
+	position: 40px;
+	width: auto;
+	background: #BDD98D;
+	text-align: center;
+}
